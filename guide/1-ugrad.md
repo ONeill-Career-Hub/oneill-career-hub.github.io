@@ -14,6 +14,8 @@ layout: page
 
 
 ---
+---
+---
 
 ## Fradulent Postings Red Flags
 The Career Hub maintains the job postings as a service to our students and employers. In providing this service, the O’Neill School makes no representations or endorsements concerning the opportunities posted or the organizations that post. Prospective applicants should also independently research the employers and opportunities presented. 
@@ -62,6 +64,8 @@ Follow these safety tips when going on an interview:
 * Ask to take the document with you to complete and return so you have time to research the issue further. To learn more about employment scams, your rights, and appropriate actions, please visit this helpful page from the Riley Guide: http://www.rileyguide.com/scams.html
 
 
+---
+---
 ---
 
 
