@@ -8,6 +8,8 @@ layout: page
 [Fradulent Postings Red Flags](#fradulent-postins-red-flags) &nbsp; &nbsp;
 [Reneging A Job Offer](#reneging-a-job-offer) &nbsp; &nbsp;
 
+---
+---
 
 
 ## Internship Process 
@@ -15,7 +17,7 @@ layout: page
 
 ---
 ---
----
+
 
 ## Fradulent Postings Red Flags
 The Career Hub maintains the job postings as a service to our students and employers. In providing this service, the O’Neill School makes no representations or endorsements concerning the opportunities posted or the organizations that post. Prospective applicants should also independently research the employers and opportunities presented. 
@@ -66,7 +68,7 @@ Follow these safety tips when going on an interview:
 
 ---
 ---
----
+
 
 
 ## Reneging a job offer
