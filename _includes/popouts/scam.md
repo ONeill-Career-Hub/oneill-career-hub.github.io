@@ -1,1 +1,1 @@
-
+If you have encountered a fraudulent posting, company or organization, please contact the Career Hub at 812-855-9639 or email careerhb@indiana.edu so the posting can be investigated and appropriate action can be taken.
