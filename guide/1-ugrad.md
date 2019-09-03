@@ -14,8 +14,6 @@ layout: page
 
 ---
 ---
-
-
 ## Fradulent Postings Red Flags
 The Career Hub maintains the job postings as a service to our students and employers. In providing this service, the O’Neill School makes no representations or endorsements concerning the opportunities posted or the organizations that post. Prospective applicants should also independently research the employers and opportunities presented. 
 
@@ -65,7 +63,40 @@ Follow these safety tips when going on an interview:
 
 ---
 ---
-
-
-
 ## Reneging a job offer
+
+_Courtesy of the National Association of Colleges and Employers_
+ 
+After interviews with several top companies, you accept a job offer from Corporation A to begin a week after graduation. Then, XYZ Startup, a company that just began recruiting new college grads, interviews you and offers you a job to begin a week after graduation.
+
+You want to work for XYZ Startup—but what will you do about the job you’ve accepted at Corporation A?
+
+No big deal? Companies hire and fire people all the time, you think. You’ll just let Corporation A know that you’ve changed your mind.
+
+__Before you pick up the phone to renege on your job with Corporation A, consider this:__
+* The job you accepted with Corporation A may have been someone else’s “dream job.” By accepting the job, you’ve taken that opportunity out of the job market.
+* Telling Corporation A that you’re not going to show up for work may have an impact on your future career.
+* Backing out on the job you’ve accepted may hurt the future job prospects of other students and alumni at your school.
+
+__What happens to the job when you renege an offer?__
+Many times, a renege comes at the tail-end of the college recruitment season—April and May.
+* The position may go unfilled and the budget set aside for that position may be allocated for other purposes. One job lost to the college job market.
+* Final hiring numbers are lower for the employer, which may affect the company’s hiring numbers next year. (Meaning, fewer job opportunities for future new grads.)
+* The now-disappointed (and frustrated) employer may choose to not interview students or new grads again.
+
+&nbsp;
+__Your choice today may ruin your choices in the future__
+
+Truth: Some employers keep a running list of names of students who renege after they’ve accepted a job offer—a “do not call” list. Even without a list, recruiters will remember you.
+
+If you are offered a job, it’s because you stand out in the crowd of applicants. The recruiter and hiring manager see and hear your name over and over during the interview and hiring process—in e-mails, on your resume, and in discussions with other employees.
+
+Someday, you may want a job at Corporation A. Or, you may run into the same recruiter at a different organization where you want to work. Plus, recruiters talk to each other about students who back out on a job acceptance.
+
+And, even if you seem to have a good reason for reneging on the acceptance—“personal reasons” or “to travel abroad”—your profile on LinkedIn will show that you’ve lied when you list the job you take.
+
+__You may lose alumni privileges__
+Universities value their corporate partnerships, and they do not want to risk having companies stop recruiting new grads and alumni. That means, if you renege on a job acceptance, your name may end up on a “no services” list. If your school finds out that you’ve reneged—and they will—you may be denied access to university job boards and alumni career services when you need help finding your next job.
+
+_Kayla Villwock is the Intern Program Manager for SAS._
+
