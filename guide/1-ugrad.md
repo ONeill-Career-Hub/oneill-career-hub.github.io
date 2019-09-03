@@ -9,9 +9,6 @@ layout: page
 [Reneging A Job Offer](#reneging-a-job-offer) &nbsp; &nbsp;
 
 ---
----
-
-
 ## Internship Process 
 
 
