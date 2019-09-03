@@ -48,9 +48,10 @@ __Interview__
 * The employer responds to you immediately after you submit your resume. Typically, resumes sent to an employer are reviewed by multiple individuals or not viewed until the posting has closed. Note: this does not include an auto-response you may receive from the employer once you have sent your resume.
 
 __If Already Involved in a Scam__
-If you have encountered a fraudulent posting, company or organization, please contact the Career Hub at 812-855-9639 or email careerhb@indiana.edu so the posting can be investigated and appropriate action can be taken.
+{% include /prompts/scam.md %}
 
 __Interviewing Scams__
+
 Follow these safety tips when going on an interview:
 * Always ensure it is in a public place and that someone knows of your plans to interview and the location.
 * If your instincts tell you it’s suspicious, it probably is.
