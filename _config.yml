@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Citizen's Guide to Open Data"
-email: geothink.opendata.guide@gmail.com
+title: "O'Neill Career Hub Resources Guide"
+email: careerhb@indiana.edu
 description: > # this means to ignore newlines until "baseurl:"
-  The Citizen’s Guide aims to provide citizens with tools to understand what makes up open data (OD), how it can be used in their communities, and where to find it.
+  The O'Neill School of Public and Environmental Affairs at Indiana University – Bloomington
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://citizens-guide-open-data.github.io/" # the base hostname & protocol for your site
-twitter_username: geothinkca
-github_username: citizens-guide-open-data
+url: "https://oneill-career-hub.github.io/" # the base hostname & protocol for your site
+twitter_username: 
+github_username: oneill-career-hub
 
 # Build settings
 markdown: kramdown
