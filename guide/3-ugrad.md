@@ -1,5 +1,5 @@
 ---
-title: "Explore Your Career Pathways"
+title: "Networking & Social Media"
 chapter: 3
 layout: page
 ---
