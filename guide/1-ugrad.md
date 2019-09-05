@@ -10,6 +10,7 @@ layout: page
 
 ---
 ## Internship Process 
+{% include button.html button_name="My1 Button" button_class="outline-primary" url="google.com" %}
 
 Information Missing -> Will be added soon! 
 
