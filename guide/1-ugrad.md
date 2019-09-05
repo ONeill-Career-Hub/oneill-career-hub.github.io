@@ -9,7 +9,7 @@ layout: page
 [Reneging A Job Offer](#reneging-a-job-offer) &nbsp; &nbsp;
 
 ---
-## Internship Process &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;{% include button.html button_name="Download File" button_class="outline-primary" url="google.com" %}
+## {% include button.html button_name="Download File" button_class="outline-primary" url="google.com" %}&nbsp;&nbsp;&nbsp;&nbsp; Internship Process 
 
 Information Missing -> Will be added soon! 
 
