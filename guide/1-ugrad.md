@@ -11,13 +11,16 @@ layout: page
 ---
 ## Internship Process 
 
+Information Missing -> Will be added soon! 
 
 ---
 ---
 ## Fradulent Postings Red Flags
-The Career Hub maintains the job postings as a service to our students and employers. In providing this service, the O’Neill School makes no representations or endorsements concerning the opportunities posted or the organizations that post. Prospective applicants should also independently research the employers and opportunities presented. 
+_The Career Hub maintains the job postings as a service to our students and employers. In providing this service, the O’Neill School makes no representations or endorsements concerning the opportunities posted or the organizations that post. Prospective applicants should also independently research the employers and opportunities presented._ 
 
-If you are ever concerned about the validity of a posting, please email careerhb@indiana.edu for assistance in researching the position. We strive to keep fraudulent and scam postings off ONeillCareers as each employer and position is reviewed by someone on our Employer Relations Team. However, it is impossible to ensure that every job posting is legitimate, and impossible to keep track of every employer and position after submission. Therefore, we are sharing common “red flags,” things that alarm us in postings, so you too, can attempt to identify such scam and fraudulent job postings. The following “red flags” are general markers to help you conduct a safer job search and protect your identity. 
+_If you are ever concerned about the validity of a posting, please email __careerhb@indiana.edu__ for assistance in researching the position. We strive to keep fraudulent and scam postings off ONeillCareers as each employer and position is reviewed by someone on our Employer Relations Team. However, it is impossible to ensure that every job posting is legitimate, and impossible to keep track of every employer and position after submission. Therefore, we are sharing common “red flags,” things that alarm us in postings, so you too, can attempt to identify such scam and fraudulent job postings._
+
+The following “red flags” are general markers to help you conduct a safer job search and protect your identity. 
 
 These “red flags” in no way cover all possible instances of fraud or all the red flags. Therefore, please always use your own discretion when applying to a position or interacting with a potential employer. Fraudulent job postings try to take your money, personal information, or both. The jobs often appear easy and convenient ways to make money with very little effort.
 
