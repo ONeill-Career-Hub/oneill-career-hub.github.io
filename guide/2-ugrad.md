@@ -19,10 +19,7 @@ Review the following team contract and establish the expectations and parameters
 #### I.	Team Contract
 
 
-| Role | Expectation | Why? |
-| :---         |     :---:      |          ---: |
-|    |      |     |
-|      |       |       |
+
 
 
 
