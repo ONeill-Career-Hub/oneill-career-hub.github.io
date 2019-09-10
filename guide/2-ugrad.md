@@ -11,17 +11,11 @@ layout: page
 [Individual Personal Development](#individual-personal-development) &nbsp; &nbsp;
 
 ---
-## Your Professional Style
+## Your Professional Style & Positioning Statement
 
 Before actively pursuing any position, you have to understand what you offer the employer. Organizations want to know how you will contribute in your role as both a leader and a team member – regardless of whether or not the role is responsible for formally leading a team or is more self-tasked.
 
 This guide will help you establish the expectations and parameters of an ideal team that you are leading, and an ideal team you are a member of. Consider your past team experiences and aspects made them successful or not as you complete the table for each element.
-
-### {% include button.html button_name="Download File" button_class="outline-primary" url="http://google.com" %}
-
-## Your Positioning Statement
-
-Now that you have identified your attributes from some different perspectives, you have to communicate them to the employer in a way that will make you competitive. This document will help guide you through specific statements to help you pitch yourself. 
 
 ### {% include button.html button_name="Download File" button_class="outline-primary" url="http://google.com" %}
 
@@ -95,9 +89,14 @@ The following list of transferable skills is a great start to identifying and pr
 ---
 ## Your Core Values
 
+This guide will help you determine your core values and how you can use these values understand your priorities and purpose when looking for opportunities.
+
+### {% include button.html button_name="Download File" button_class="outline-primary" url="http://google.com" %}
 ---
 ---
 ## Your Ideal Job
+
+Everybody has their own preferences about work. But many people fail to state them clearly. This dguide will help you think about your job preferences and will help you articulate these preferences. 
 
 ---
 ---
