@@ -55,7 +55,41 @@ The following list of transferable skills is a great start to identifying and pr
 ⬜️ Diplomatically communicate and respond to positive or negative feedback   
 ⬜️ Motivate others to complete projects Build consensus among groups or individuals (e.g., with your department/committee)   
 ⬜️ Effectively mentor subordinates and/or peers   
+### Organization & Management 
+⬜️ Manage a project or multiple projects from beginning to end  
+⬜️ Identify and establish goals or tasks to be accomplished in a reasonable timeline   
+⬜️ Organize and prioritize tasks   
+⬜️ Anticipate possible challenges   
+⬜️ Maintain flexibility in the face of changing circumstances  
+### Supervision Skills
+⬜️ Evaluate others’ performance (e.g., grade exams or papers)   
+⬜️ Monitor or oversee the work of others in a lab or classroom, and provide feedback   
+### Entrepreneurial Skills 
+⬜️ Meet deadlines and manage competing priorities   
+⬜️ Perform under pressure   
+⬜️ Work independently   
+⬜️ Acquire funding (e.g., write grant/fellowship  
 
+### Analyze your skills, strengths, and values
+1. Write down your top five skills that you enjoy doing daily and that you do well.  
+2. Do your skills cluster in a specfic skill category?  
+
+### Use your transferable skills to explore career options
+1. Go to www.indeed.com and enter in one of the transferrable skill categories you have identified as a search term with either your discipline, or an interest area. (Example: environmental science communication)  
+2. Create a list of 10 position titles you found.  
+3. Creata a list of 10 organizations you found.  
+
+### Your next steps
+#### Visit speacareerhub.indiana.edu 
+1.	Go to the Resources tab and select Online Resources.  
+2.	Search the various websites with the position titles you listed above.  
+3.	Find contacts within the organizations you find in this search using either LinkedIn and/or the organization website. (Organize in a spreadsheet.)  
+4.	Reach out and request an informational interview with those contacts.  
+#### Go to LinkedIn.com
+1.	Search for Indiana University; go to that page and select the Alumni button.  
+2.	Search for the position titles and organizations you listed above.  
+3.	Add the alumni and organizations to your spreadsheet.   
+4.	Reach out and request an informational interview.  
 
 ---
 ---
