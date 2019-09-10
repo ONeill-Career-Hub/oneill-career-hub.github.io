@@ -46,12 +46,12 @@ $content-width:    860px;
 $on-palm:         300px;
 $on-laptop:        860px;
 
-@include media-query($on-palm) {
-   .wrapper {
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
-    }
- }
+//@include media-query($on-palm) {
+  // .wrapper {
+    //    padding-right: $spacing-unit / 2;
+     //   padding-left: $spacing-unit / 2;
+ //   }
+// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
