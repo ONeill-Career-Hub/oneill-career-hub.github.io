@@ -418,4 +418,8 @@
    .nav-side-menu .menu-list .menu-content {
      display: block;
    }
+ @media (min-width: $on-palm) {
+   .nav-side-menu .toggle btn {
+     display: block;
+   }
  }
