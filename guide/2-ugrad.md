@@ -96,7 +96,8 @@ This guide will help you determine your core values and how you can use these va
 ---
 ## Your Ideal Job
 
-Everybody has their own preferences about work. But many people fail to state them clearly. This dguide will help you think about your job preferences and will help you articulate these preferences. 
+Everybody has their own preferences about work. But many people fail to state them clearly. This guide will help you think about your job preferences and will help you articulate these preferences. 
+### {% include button.html button_name="Download File" button_class="outline-primary" url="http://google.com" %}
 
 ---
 ---
@@ -104,6 +105,10 @@ Everybody has their own preferences about work. But many people fail to state th
 ---
 ---
 ## Individual Personal Development
+
+This guide will help you determine your strengths, weaknesses, and will help you identify the skills employer's your interested in would like to see. 
+
+### {% include button.html button_name="Download File" button_class="outline-primary" url="http://google.com" %}
 
 ---
 ---
