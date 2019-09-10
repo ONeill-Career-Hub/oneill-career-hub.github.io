@@ -43,10 +43,9 @@ $nav-sidebar-color: #14181c;
 // Width of the content area
 $content-width:    860px;
 
-$on-palm:          560px;
+$on-palm:         300px;
 $on-laptop:        860px;
 
-Use media queries like this:
 @include media-query($on-palm) {
    .wrapper {
         padding-right: $spacing-unit / 2;
