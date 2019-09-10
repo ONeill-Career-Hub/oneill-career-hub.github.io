@@ -31,30 +31,30 @@ Now that you have identified your attributes from some different perspectives, y
 
 The following list of transferable skills is a great start to identifying and prioritizing your skills gained as a student, volunteer, during part-time jobs and internships, and through other experiences. Using the list below, check the box next to the skills you feel confident using. Then evaluate the checked skills and underline those that you enjoy doing daily. 
 
-### Research & Information Management 
-[ ]	Locate and assimilate new information rapidly, applicable to a given problem 
-[ ]	Understand and synthesize large quantities of complex information 
-[ ]	Design research instruments (e.g., surveys) and effectively analyze results 
-[ ]	Develop organizing principles to effectively sort and evaluate data
+### Research & Information Management
+⬜️	Locate and assimilate new information rapidly, applicable to a given problem   
+⬜️	Understand and synthesize large quantities of complex information  
+⬜️	Design research instruments (e.g., surveys) and effectively analyze results   
+⬜️	Develop organizing principles to effectively sort and evaluate data  
 #### Analysis & Problem Solving 
-[ ] Clearly define a problem and identify possible causes 
-[ ] Comprehend large amounts of information 
-[ ] Form and defend independent conclusions 
-[ ] Design an experiment, plan, or model that defines a problem, tests potential resolutions and implements a solution 
+⬜️ Clearly define a problem and identify possible causes   
+⬜️ Comprehend large amounts of information   
+⬜️ Form and defend independent conclusions   
+⬜️ Design an experiment, plan, or model that defines a problem, tests potential resolutions and implements a solution   
 ### Communication Skills – Written & Oral 
-[ ] Prepare concise and logically written materials, for different audiences in different contexts: from abstracts to book-length manuscripts 
-[ ] Edit and proofread 
-[ ] Organize and communicate ideas and complex information effectively in oral presentations to specialized and non-specialized audiences in small and large groups
-[ ] Persuade others in both written and oral format using logical argument 
-[ ] Write effective grant and research proposals 
+⬜️ Prepare concise and logically written materials, for different audiences in different contexts: from abstracts to book-length manuscripts   
+⬜️ Edit and proofread   
+⬜️ Organize and communicate ideas and complex information effectively in oral presentations to specialized and non-specialized audiences in small and large groups  
+⬜️ Persuade others in both written and oral format using logical argument   
+⬜️ Write effective grant and research proposals   
 ### Interpersonal & Leadership Skills 
-[ ] Facilitate group discussions or conduct meetings 
-[ ] Teach skills or concepts to others 
-[ ] Work effectively in teams, and collaborate on projects
-[ ] Navigate complex or bureaucratic environments effectively 
-[ ] Diplomatically communicate and respond to positive or negative feedback 
-[ ] Motivate others to complete projects Build consensus among groups or individuals (e.g., with your department/committee) 
-[ ] Effectively mentor subordinates and/or peers 
+⬜️ Facilitate group discussions or conduct meetings   
+⬜️ Teach skills or concepts to others   
+⬜️ Work effectively in teams, and collaborate on projects  
+⬜️ Navigate complex or bureaucratic environments effectively   
+⬜️ Diplomatically communicate and respond to positive or negative feedback   
+⬜️ Motivate others to complete projects Build consensus among groups or individuals (e.g., with your department/committee)   
+⬜️ Effectively mentor subordinates and/or peers   
 
 
 ---
