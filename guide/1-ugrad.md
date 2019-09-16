@@ -10,7 +10,7 @@ layout: page
 
 ---
 ## Internship Process 
-Information Missing -> Will be added soon! 
+Coming Soon! 
 
 ---
 ---
