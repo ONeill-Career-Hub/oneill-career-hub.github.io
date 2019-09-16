@@ -1,5 +1,6 @@
+<a name="nav"></a>
 ---
-title: "Develop Your Career Narrative and Strategy" <a name="nav"></a>
+title: "Develop Your Career Narrative and Strategy" 
 chapter: 2
 layout: page
 ---
