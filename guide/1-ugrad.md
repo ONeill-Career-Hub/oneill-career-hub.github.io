@@ -10,7 +10,8 @@ layout: page
 
 ---
 ## Internship Process 
-As an O’Neill School of Public and Environmental Affairs master’s or undergraduate student, you are required to complete an internship as a part of your professional program (select masters students are exempt). Your internship must be at least 120 hours performed at the same organization. No more than 40 hours per week are allowed.  
+As an O’Neill School of Public and Environmental Affairs master’s or undergraduate student, you are required to complete an internship as a part of your professional program (select masters students are exempt). Your internship must be at least 120 hours performed at the same organization. No more than 40 hours per week are allowed. 
+  
 Visit our [website for more information](https://oneill.indiana.edu/career-services/jobs-internships/register-internship.html) on the steps to fulfilling your internship requirement
 
 ---
