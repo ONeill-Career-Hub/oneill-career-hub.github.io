@@ -23,7 +23,7 @@ Visit the Career Hub [website](https://speacareerhub.indiana.edu/resources/?ctag
 ## LinkedIn
 LinkedIn is one of the most important tools you will use to find opportunities, conduct organization research, and find alumni and contacts to reach out to and request informational interviews. LinkedIn is also a place where you can be discovered looking for potential candidates to fill their positions. It’s important to have a profile that represents you well as it will often be the first impression someone has of you.
 
-__Do the following to enhance your profile:__&nbsp;
+__Do the following to enhance your profile:__&nbsp;  
 1.Choose a professional photo to have on your profile. Generally you just need a headshot; if you feel you would like something a bit edgier, look at the photos of professionals in your desired field and follow their lead. Do NOT use a selfie as your profile picture!   
 2.Write an impactful headline. What do you want people to know about you before they take a closer look at your profile?   
 3.Your summary is basically your elevator pitch or positioning statement. It should be written in a professional voice appropriate for your intended audience. But don’t be too stuffy – this is where you can let your voice and your personality come through.  
