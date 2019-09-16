@@ -1,5 +1,5 @@
 ---
-title: "Develop Your Career Narrative and Strategy"
+title: "Develop Your Career Narrative and Strategy" <a name="nav"></a>
 chapter: 2
 layout: page
 ---
@@ -9,7 +9,7 @@ layout: page
 [Your Core Values](#your-core-values) &nbsp; &nbsp;
 [Your Ideal Job](#your-ideal-job) &nbsp; &nbsp;
 [Individual Personal Development](#individual-personal-development) &nbsp; &nbsp;
-<a name="nav"></a>
+
 
 ---
 ## Your Professional Style & Positioning Statement
@@ -21,6 +21,7 @@ This guide will help you establish the expectations and parameters of an ideal t
 ### {% include button.html button_name="Download File" button_class="outline-primary" url="https://iu.app.box.com/embed/s/q2ryfmcwi15ck1s2h32yjtf80sj0vsdi?sortColumn=date&view=list" %}
 
 [Back to top](#nav)
+
 ---
 ---
 ## Transferrable Skills Analysis
@@ -88,6 +89,7 @@ The following list of transferable skills is a great start to identifying and pr
 4.	Reach out and request an informational interview.  
 
 [Back to top](#nav)
+
 ---
 ---
 ## Your Core Values
@@ -97,6 +99,7 @@ This guide will help you determine your core values and how you can use these va
 ### {% include button.html button_name="Download File" button_class="outline-primary" url="http://google.com" %}
 
 [Back to top](#nav)
+
 ---
 ---
 ## Your Ideal Job
@@ -105,6 +108,7 @@ Everybody has their own preferences about work. But many people fail to state th
 ### {% include button.html button_name="Download File" button_class="outline-primary" url="http://google.com" %}
 
 [Back to top](#nav)
+
 ---
 ---
 
@@ -115,6 +119,7 @@ This guide will help you determine your strengths, weaknesses, and will help you
 ### {% include button.html button_name="Download File" button_class="outline-primary" url="http://google.com" %}
 
 [Back to top](#nav)
+
 ---
 ---
 
