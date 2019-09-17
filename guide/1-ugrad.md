@@ -3,13 +3,15 @@ title: "Create Your Professional Development Strategy"
 chapter: 1
 layout: page
 ---
-
+<a name="nav"></a>
+---
 [Internship Process](#internship-process) &nbsp; &nbsp;
 [Fradulent Postings Red Flags](#fradulent-postins-red-flags) &nbsp; &nbsp;
 [Reneging A Job Offer](#reneging-a-job-offer) &nbsp; &nbsp;
 
 ---
 ## Internship Process 
+ <img src="images/career.png"/>
 As an O’Neill School of Public and Environmental Affairs master’s or undergraduate student, you are required to complete an internship as a part of your professional program (select masters students are exempt). Your internship must be at least 120 hours performed at the same organization. No more than 40 hours per week are allowed. 
   
 Visit our [website for more information](https://oneill.indiana.edu/career-services/jobs-internships/register-internship.html) on the steps to fulfilling your internship requirement
@@ -64,6 +66,7 @@ Follow these safety tips when going on an interview:
 * Do not feel pressured to give personally identifiable information in an application if you are not comfortable during an interview or during online/phone correspondence.
 * Ask to take the document with you to complete and return so you have time to research the issue further. To learn more about employment scams, your rights, and appropriate actions, please visit this helpful page from the Riley Guide: http://www.rileyguide.com/scams.html
 
+[Back to top](#nav)
 
 ---
 ---
@@ -104,3 +107,4 @@ Universities value their corporate partnerships, and they do not want to risk ha
 
 _Kayla Villwock is the Intern Program Manager for SAS._
 
+[Back to top](#nav)
