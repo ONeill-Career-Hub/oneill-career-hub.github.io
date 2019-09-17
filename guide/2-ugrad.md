@@ -14,6 +14,7 @@ layout: page
 
 ---
 ## Your Professional Style & Positioning Statement
+ <img src="images/prof.png"/> &nbsp; &nbsp;  
 
 Before actively pursuing any position, you have to understand what you offer the employer. Organizations want to know how you will contribute in your role as both a leader and a team member – regardless of whether or not the role is responsible for formally leading a team or is more self-tasked.
 
