@@ -98,7 +98,7 @@ The following list of transferable skills is a great start to identifying and pr
 
 This guide will help you determine your core values and how you can use these values understand your priorities and purpose when looking for opportunities.
 
-### {% include button.html button_name="Download File" button_class="outline-primary" url="http://google.com" %}
+### {% include button.html button_name="Download File" button_class="outline-primary" url="https://iu.box.com/s/ygq7utvrhxysrqtc8969go2wyhw90n3k" %}
 
 [Back to top](#nav)
 
@@ -107,7 +107,7 @@ This guide will help you determine your core values and how you can use these va
 ## Your Ideal Job
 
 Everybody has their own preferences about work. But many people fail to state them clearly. This guide will help you think about your job preferences and will help you articulate these preferences. 
-### {% include button.html button_name="Download File" button_class="outline-primary" url="http://google.com" %}
+### {% include button.html button_name="Download File" button_class="outline-primary" url="https://iu.box.com/s/erfut3h5y7e3rozmyqjv6t1iaz0otrtn" %}
 
 [Back to top](#nav)
 
@@ -118,7 +118,7 @@ Everybody has their own preferences about work. But many people fail to state th
 
 This guide will help you determine your strengths, weaknesses, and will help you identify the skills employer's your interested in would like to see. 
 
-### {% include button.html button_name="Download File" button_class="outline-primary" url="http://google.com" %}
+### {% include button.html button_name="Download File" button_class="outline-primary" url="https://iu.box.com/s/9tt1u96nesb8azl9u02zqfjziee4a5x5" %}
 
 [Back to top](#nav)
 
