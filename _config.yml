@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oneill-career-hub.github.io/" # the base hostname & protocol for your site
 twitter_username: 
 github_username: oneill-career-hub
+google_analytics: UA-148188804-1
 tipue_search:
   include:
     pages: true
