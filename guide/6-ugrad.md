@@ -32,7 +32,7 @@ The result is arguably the most important part of your STAR response but is ofte
 
 Before every interview, sit down with 30 – 50 behavior based interview questions and develop STARs that are relevant to the organization and the position. Download the below guide to go through some practice problems. 
  
- ### {% include button.html button_name="Download File" button_class="outline-primary" url="https://iu.box.com/s/y24xt4fbbupc79q9rjzclkno3y1mdf4d" %}
+### {% include button.html button_name="Download File" button_class="outline-primary" url="https://iu.box.com/s/y24xt4fbbupc79q9rjzclkno3y1mdf4d" %}
  
  
 [Back to top](#nav)
