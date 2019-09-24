@@ -15,13 +15,14 @@ layout: page
 
 ## The 2 Hour Job Search
 
+The 2-hour job search guide will help you identify organizations, roles, and individuals to start a discussion about your future career choices. Download the guide and get started today!
+
 <img src="images/prof.png"/> &nbsp; &nbsp; 
  
  
 {% include button.html button_name="Download File" button_class="outline-primary" url="https://iu.box.com/s/ny086imepxb0xqnofp1xmk1dvi3gojmg" %}
 
----
----
+
 
 ---
 ---
