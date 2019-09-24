@@ -15,10 +15,9 @@ layout: page
 
 ## The 2 Hour Job Search
 
-The 2-hour job search guide will help you identify organizations, roles, and individuals to start a discussion about your future career choices. Download the guide and get started today!
-
 <img src="images/prof.png"/> &nbsp; &nbsp; 
  
+The 2-hour job search guide will help you identify organizations, roles, and individuals to start a discussion about your future career choices. Download the guide and get started today!
  
 {% include button.html button_name="Download File" button_class="outline-primary" url="https://iu.box.com/s/ny086imepxb0xqnofp1xmk1dvi3gojmg" %}
 
@@ -28,11 +27,72 @@ The 2-hour job search guide will help you identify organizations, roles, and ind
 ---
 ## Organizational Research Guide
 
+The experts at the Business/O’Neill Information Commons can help you with your research through the Hire Ed program. Visit their website to schedule your consultation and access research and compensation guides to assist you in your individual research. 
+
+__Organization Name:__
+
+__Industry__ 
+1. What is the line of business of organizations in this industry? (Do they provide a service, create, distribute a product, etc.) 
+_How do they make money to support their organization, are they supported by grants? 
+Resources you might use: Vault Guide, Informational Interviews_       
+
+2. What are the significant trends in this industry?   
+_Resources you might use: Informational Interviews, Vault, Professional Association website, Professional Journals_
+
+3. Who are the major organizations (key players) in this industry?   
+_Resources you might use: Vault, Glassdoor, Professional Association websites_ 
+
+4. What are the key professional associations and journals for the industry?   
+_Resources you might use: Vault, Google_
+
+
+__Organization__ 
+1. Organization Type (public, private, nonprofit)   
+_Resources you might use: Organization website, LinkedIn_
+ 
+2. Product/Services Offered (Complete current product/service line and potential new products/services)   
+_Resources you might use: Organization website_
+
+3. Organization size, parent company (if any), subsidiaries (if any), location of headquarters, geographic   presence 
+_Resources you might use: Organization website_
+
+4. Organization’s competitors (other major players in the industry)   
+_Resources you might use: Vault, Glassdoor_
+
+5. Mission/Vision/Organization direction within the past year and future plans   
+_Resources you might use: Organization website, Professional Journals, Press Releases_
+
+6. Key People (CEO, VP, Pres.), SPEA/IU Alums   
+_Resources you might use: Organization website, LinkedIn; Google key people, read interviews/articles, watch videos_  
+
+7. Annual Report (annual gross, ranking, stock price)   
+_Resources you might use: Organization website, Annualreports.com_
+
+8. What are the “buzz words” in the organization?   
+_Resources you might use: Informational Interviews, Organization website_ 
+
+9. What is the “culture” of the organization? (Is it conservative, liberal, relaxed, etc) How diverse is the team?  
+_Resources you might use: Informational Interviews, Organization website, Glassdoor_
+
+10. How has the organization been in the news in the last year? How does it interact with the community?  
+_Resources you might use: LinkedIn, Google_
+
+
+__Function (position applying to)__
+1. What department/division is the position housed? Who does it report to?   
+_Resources you might use: Organization website, LinkedIn_
+
+2. What is the career path for this position?  
+_Resources you might use: Organization website, LinkedIn_
+
+3. What are the skills and personal qualities that successful professionals in this industry share?   
+_Resources you might use: Informational Interviews, LinkedIn, Glassdoor, Vault_ 
+
+4. What additional education/licensure/certifications will you need to be promoted in this area?  
+_Resources you might use: Informational Interviews, LinkedIn, Glassdoor, Vault_ 
+
 
 [Back to top](#nav)
----
----
-
 
 ---
 ---
