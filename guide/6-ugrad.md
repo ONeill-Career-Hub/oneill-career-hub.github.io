@@ -14,7 +14,7 @@ layout: page
 
 ---
 ## STAR Format for Behavior Based Interviews
- <img src="images/career.png"/> &nbsp; &nbsp;  
+ <img src="images/career-4.png"/> &nbsp; &nbsp;  
  
 Use the STAR framework to make sure you answer interview questions completely and in a way that shows your value-add to the employer.  
 
