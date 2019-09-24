@@ -50,6 +50,8 @@ Some of the benefits of attending employer events include:
 __Employer Engagement Opportunities at the O’Neill School__
 All employer events are posted on our website and featured in the appropriate Career Community newsletters. Sign up to begin receiving the newsletter of your choice on the [Career Hub website.](https://speacareerhub.indiana.edu/resources/?ctag%5B%5D=handouts-guides)
 
+Please review the full documentation to connect with employers [here](https://iu.box.com/s/zxdxq39qimmqg43bqnl8kw2diy39vdty)
+
 
 [Back to top](#nav)
 
@@ -65,7 +67,7 @@ __Step 1:__ Do your research. Know what the faculty member’s research area is 
 * What are the main learning objectives of the class and/or the degree program?  
 * What are the major themes/theories/concepts that I will learn by the time I complete the program? What have I already learned?  
 * What skills will I learn as a result of the projects/tests/service that is part of the degree?  
-* What career path(s) am I most interested in? What do I already know about this path? How did I learn this information?  
+* What career path(s) am I most interested in? What do I already know about this path? How did I learn this information?
 &nbsp;
 __Step 2:__ Arrive on time and be prepared. Your faculty know you as a student, this meeting help him/her/they get to know you better. Be prepared to deliver your elevator pitch, and to tell them what you hope to learn during the conversation.  
 &nbsp;
@@ -97,8 +99,8 @@ __Morning Logistics__
 ⬜️ Find and thank the organizers for creating the day – if they are available! If they are clearly busy do not stop them; wait for a better time.   
 
 ##### Meals
-⬜️ Even if the event covers meals, consider eating something beforehand in case you don’t like what’s offered.
-□	Sit with someone you don’t know. Ask the person if the seats at their table are available before you sit down, just in case they are holding them for someone else.   
+⬜️ Even if the event covers meals, consider eating something beforehand in case you don’t like what’s offered.  
+⬜️	Sit with someone you don’t know. Ask the person if the seats at their table are available before you sit down, just in case they are holding them for someone else.   
 ⬜️ Stay off your phone, and talk to people instead!    
 
 __Presentations and Sessions__  
