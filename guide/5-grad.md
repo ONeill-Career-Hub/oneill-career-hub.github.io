@@ -14,7 +14,7 @@ layout: page
 
 ---
 ## Resumes
- <img src="images/career.png"/> &nbsp; &nbsp;  
+ <img src="images/career-3.png"/> &nbsp; &nbsp;  
  
 __General Resumes__
 Your resume is your personal marketing piece that provides an overview of your education, experiences, and skills to potential employers. There are several types of resumes the Career Hub team will refer to:  
