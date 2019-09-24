@@ -175,7 +175,7 @@ __Use the following resources as you begin and manage your search:__
 
 It can be difficult to stay productive during the job search – especially when the stress of keeping up with your classes feels like more than a full-time job already. Your graduate program will go by quickly, you must develop a plan to capitalize on the time you have to devote to your search.
 
-__Develop a Schedule__
+__Develop a Schedule__  
 ⬜️ Analyze your daily schedule and block out times to devote to the job search. Even as little as 30 minutes before breakfast will keep you moving forward in the process.  
 
 #### Designate time for each of the following:
@@ -189,11 +189,11 @@ __Develop a Schedule__
 ⬜️ Consider assigning activities to days of the week to stay efficient. For example: Monday – Searching for organizations; Tuesday – Researching organizations on your list; Wednesday – Tailor your resumes and cover letters for positions you will apply to; Thursday – Submit applications; Friday – Reach out to new and existing network contacts   
 
 #### Stay Organized
-⬜️ Update your Professional Development Tracking Form to monitor your progress, track communications, and organize your outreach.  
+⬜️ Update your Professional Development Tracking Form to monitor your progress, track communications, and organize your outreach.    
 ⬜️ Keep files of the resume and cover letter you used for each organization you applied to. You will be able to easily review them when you prepare to interview so you will know exactly what the hiring committee has looked at.  
 #### Use LinkedIn 
 ⬜️ Ask for recommendations from previous bosses/coaches/supervisors, coworkers, classmates who served on group projects with you, etc.  
-⬜️ Conduct detailed searches to find organizations you are interested in and people you would like to talk to.
+⬜️ Conduct detailed searches to find organizations you are interested in and people you would like to talk to.  
 ⬜️ Keep your profile updated with latest skills, projects, images, writing samples, presentations, etc. so your profile shows up at the top of searches.    
 ⬜️ Post regular updates, join groups, and comment on industry-related topics and articles.  
 
