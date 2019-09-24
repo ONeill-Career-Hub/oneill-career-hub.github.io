@@ -15,6 +15,9 @@ layout: page
 
 ---
 ## VMock
+
+<img src="images/prof.png"/> &nbsp; &nbsp; 
+
 VMock provides instant tailored feedback based on the O’Neill School standards and employer criteria. VMock can even identify careers that fit you best and provide actionable recommendations that strengthen your candidacy. 
 
 Visit the Career Hub [website](https://speacareerhub.indiana.edu/resources/?ctag%5B%5D=handouts-guides) to access VMock and make your profile even stronger.
