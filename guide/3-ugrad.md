@@ -11,7 +11,7 @@ layout: page
 [Networking Social Media Tips](#networking-social-media-tips) &nbsp; &nbsp;
 [Federal Networking & Social Media Tips](#federal-networking-and-social-media-tips) &nbsp; &nbsp;
 [15 Questions to Ask in an Informational Interview](#15-questions-to-ask-in-an-informational-interview) &nbsp; &nbsp;
-<a name="nav></a>
+<a name="nav"></a>
 
 ---
 ## VMock
@@ -66,8 +66,11 @@ __Step 1:__ Do your research. Know what the faculty member’s research area is 
 * What are the major themes/theories/concepts that I will learn by the time I complete the program? What have I already learned?  
 * What skills will I learn as a result of the projects/tests/service that is part of the degree?  
 * What career path(s) am I most interested in? What do I already know about this path? How did I learn this information?  
+&nbsp;
 __Step 2:__ Arrive on time and be prepared. Your faculty know you as a student, this meeting help him/her/they get to know you better. Be prepared to deliver your elevator pitch, and to tell them what you hope to learn during the conversation.  
+&nbsp;
 __Step 3:__ Review the questions you began researching yourself. Ask for your faculty member’s insight and thoughts about your responses. Ask additional questions you prepared for this meeting. Make sure you take notes so that your faculty member knows you see this conversation as valuable.  
+&nbsp;
 __Step 4:__ Send a thank you message the same day as your meeting. Your faculty are a very important part of your network, and you want them to know how much you appreciate their insight.
 
 [Back to top](#nav)
@@ -98,9 +101,9 @@ __Morning Logistics__
 □	Sit with someone you don’t know. Ask the person if the seats at their table are available before you sit down, just in case they are holding them for someone else.   
 ⬜️ Stay off your phone, and talk to people instead!    
 
-##### Presentations and Sessions
+__Presentations and Sessions__  
 
-__Attending Sessions__
+##### Attending Sessions  
 ⬜️ If there are multiple sessions to choose from in one time block, choose one that will have the greatest ROI for you. Consider the topic, the speakers, the moderator, etc. when deciding.  
 ⬜️ Introduce yourself to the people you sit down next to, get their contact information before you leave, and continue to talk to them whenever you see them the rest of the conference.  
 ⬜️ Connect with them on LinkedIn.  
@@ -113,7 +116,7 @@ __Attending Sessions__
 ⬜️ After the session,  introduce yourself, ask your questions, make whatever connections you wanted to make. Meet your objectives, but be respectful of the line of people behind you.  
 ⬜️ Connect with them on LinkedIn.  
 
-#### Networking
+__Networking__  
 
 ##### In-Person
 ⬜️ “Break” at a conference means it’s time to meet people! Introduce yourself and don’t be afraid to ask for business cards.  
@@ -123,12 +126,12 @@ __Attending Sessions__
 ##### Social Media
 ⬜️ This is a great space to network in at a conference – you can meet speakers and attendees there and meet up with them later.  
 
-##### Post-Conference
+__Post-Conference__ 
 
-__Following Up__
+##### Following Up  
 ⬜️ Follow-up with new contacts within 24 hours. There are lots of people at a conference, if you wait longer they may forget who you are.   
 
-__Talk About It__
+##### Talk About It  
 ⬜️ Write a blog post about the conference and what you learned for the Career Hub and your LinkedIn profile.   
 ⬜️ Use what you learned to keep in touch with those you met. If you heard a speaker talk about sustainable energy and then you read an article that relates to that talk, tweet the article, use the conference hashtag, and tag the speaker or conference organizer.  
 
