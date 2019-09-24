@@ -25,7 +25,7 @@ __Review; Negotiate, Accept, or Decline__
 If you want to negotiate any terms of the offer, you must do so before you accept. You should have a conversation either over the phone or in person when you negotiate – don’t try to do it via email.   
 To prepare for the conversation, do the following:  
 
-STEP 1: Identify what is negotiable, including monetary and non-monetary items.  
+__STEP 1:__ Identify what is negotiable, including monetary and non-monetary items.  
 
 Research the salary range and the cost of living for the city you would be working in. Your contact inside the organization is a great resource for this. You can also use resources such as Glassdoor.com and the Bureau of Labor Statistics.   
 
