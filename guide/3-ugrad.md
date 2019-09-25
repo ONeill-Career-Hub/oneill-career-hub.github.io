@@ -16,7 +16,7 @@ layout: page
 ---
 ## VMock
 
-<img src="images/prof.png"/> &nbsp; &nbsp; 
+<img src="images/career-8.png"/> &nbsp; &nbsp; 
 
 VMock provides instant tailored feedback based on the O’Neill School standards and employer criteria. VMock can even identify careers that fit you best and provide actionable recommendations that strengthen your candidacy. 
 
