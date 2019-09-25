@@ -6,7 +6,7 @@ layout: page
 <a name="nav"></a>
 ---
 [Internship Process](#internship-process) &nbsp; &nbsp;
-[Fradulent Postings Red Flags](#fradulent-postins-red-flags) &nbsp; &nbsp;
+[Fradulent Postings Red Flags](#fradulent-postings-red-flags) &nbsp; &nbsp;
 [Reneging A Job Offer](#reneging-a-job-offer) &nbsp; &nbsp;
 
 ---
