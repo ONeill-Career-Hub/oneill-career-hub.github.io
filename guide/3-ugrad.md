@@ -199,26 +199,26 @@ Consider using the following platforms to help you expand your network and learn
 
 2.	Twitter The following Twitter feeds can help you find current information that will help you in your job search as well as connect with people doing the work you want to do.  
 
-@USAJobs You’ll find links to open jobs and information that will help you be competitive in your application.  
-@USOPM Tweets from the US Office of Personnel Management will provide information that will give you a good idea of what working in the federal government is like.  
-@GovExec Government Executive will keep you updated on topics of biggest discussions at the federal level in real time.  
-@gogovernment Go Government is an initiative from the Partnership for Public Service. It provides very practical advice for applying to federal positions and is directed toward new professionals.  
-@GovernmentJobs This account advertises government jobs from around the nation.  
-@careersingov You will get information about local government jobs if you follow this account.  
-@vacareers This feed from the US Department of Veterans Affairs posts information about job fairs, positions at the VA, and stories about how it is helping veterans.  
+[@USAJobs](https://twitter.com/USAJOBS) You’ll find links to open jobs and information that will help you be competitive in your application.  
+[@USOPM](https://twitter.com/USOPM) Tweets from the US Office of Personnel Management will provide information that will give you a good idea of what working in the federal government is like.  
+[@GovExec](https://twitter.com/GovExec) Government Executive will keep you updated on topics of biggest discussions at the federal level in real time.  
+[@gogovernment](https://twitter.com/gogovernment) Go Government is an initiative from the Partnership for Public Service. It provides very practical advice for applying to federal positions and is directed toward new professionals.  
+[@GovernmentJobs](https://twitter.com/governmentjobs) This account advertises government jobs from around the nation.  
+[@careersingov](https://twitter.com/careersingov) You will get information about local government jobs if you follow this account.  
+[@vacareers](https://twitter.com/vacareers) This feed from the US Department of Veterans Affairs posts information about job fairs, positions at the VA, and stories about how it is helping veterans.  
 
 3.	Instagram Many agencies are using Instagram to educate the public – and job seekers – about the work they do. The following is a list of some of the more popular accounts. Search for the agencies you are most interested in and follow them to stay current.  
 
-usinterior Interior Department   
-smithsonianzoo Smithsonian’s National Zoo  
-usgsa General Services Administration  
-dhsgov Homeland Security Department   
-nasa NASA  
-marines US Marine Corps  
-usfws US Fish and Wildlife Service  
-usdagov US Department of Agriculture  
-nsfgov National Science Foundation  
-noaa NOAA  
+__usinterior__ Interior Department   
+__smithsonianzoo__ Smithsonian’s National Zoo  
+__usgsa__ General Services Administration  
+__dhsgov__ Homeland Security Department   
+__nasa__ NASA  
+__marines__ US Marine Corps  
+__usfws__ US Fish and Wildlife Service  
+__usdagov__ US Department of Agriculture  
+__nsfgov__ National Science Foundation  
+__noaa__ NOAA  
 
 4.	Snapchat Many government agencies are using Snapchat to reach a wider demographic. The following agencies actively share information. Search for your agencies of interest and follow them.  
 
