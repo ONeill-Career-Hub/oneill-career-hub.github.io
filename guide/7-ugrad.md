@@ -10,7 +10,7 @@ layout: page
 
 ---
 ## After the Interview
- <img src="images/career.png"/> &nbsp; &nbsp;  
+ <img src="images/career-7.png"/> &nbsp; &nbsp;  
  
  
 __You Received an Offer!__  
