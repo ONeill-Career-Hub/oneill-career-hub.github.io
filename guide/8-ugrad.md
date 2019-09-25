@@ -10,7 +10,7 @@ layout: page
 
 ---
 ## International Students
- <img src="images/career.png"/> &nbsp; &nbsp;  
+ <img src="images/career-8.png"/> &nbsp; &nbsp;  
  
  International Students can view our guide to help with the visa, internship, and other questions related to your time here at O'Neill! 
  
