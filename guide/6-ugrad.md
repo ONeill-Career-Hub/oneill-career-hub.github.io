@@ -5,7 +5,7 @@ layout: page
 ---
 <a name="nav"></a>
 ---
-[STAR Format for Behavior Based Interviews](#star-format-for-behavio-based-interviews) &nbsp; &nbsp;
+[STAR Format for Behavior Based Interviews](#star-format-for-behavior-based-interviews) &nbsp; &nbsp;
 [Six Stories to Tell](#six-stories-to-tell) &nbsp; &nbsp;
 [Tell Me About Yourself](#tell-me-about-yourself) &nbsp; &nbsp;
 [Closing Questions to Ask](#closing-questions-to-ask) &nbsp; &nbsp;
