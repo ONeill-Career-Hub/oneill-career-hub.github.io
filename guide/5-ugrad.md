@@ -82,6 +82,7 @@ This section is completely optional. The purpose of this section is to provide a
 Always save your resume as a pdf file with your first and last name in the file name. If you submit a Word document to an employer, there is a good chance it will be distorted when they open it on their computer.   
 
 [Back to top](#nav)
+
 ---
 ---
 
