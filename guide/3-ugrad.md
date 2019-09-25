@@ -195,9 +195,9 @@ The application process for federal positions is very rigid and doesn’t allow 
 
 Consider using the following platforms to help you expand your network and learn more about the agencies you are interested in.  
 
-1.	LinkedIn Use LinkedIn to find and connect with people in federal positions. Join groups affiliated to the agencies you are interested in. Use the Alumni tool to find O’Neill School and Indiana University alumni to contact.  
+1. LinkedIn Use LinkedIn to find and connect with people in federal positions. Join groups affiliated to the agencies you are interested in. Use the Alumni tool to find O’Neill School and Indiana University alumni to contact.  
 
-2.	Twitter The following Twitter feeds can help you find current information that will help you in your job search as well as connect with people doing the work you want to do.  
+2. Twitter The following Twitter feeds can help you find current information that will help you in your job search as well as connect with people doing the work you want to do.  
 
 [@USAJobs](https://twitter.com/USAJOBS) You’ll find links to open jobs and information that will help you be competitive in your application.  
 [@USOPM](https://twitter.com/USOPM) Tweets from the US Office of Personnel Management will provide information that will give you a good idea of what working in the federal government is like.  
@@ -207,7 +207,7 @@ Consider using the following platforms to help you expand your network and learn
 [@careersingov](https://twitter.com/careersingov) You will get information about local government jobs if you follow this account.  
 [@vacareers](https://twitter.com/vacareers) This feed from the US Department of Veterans Affairs posts information about job fairs, positions at the VA, and stories about how it is helping veterans.  
 
-3.	Instagram Many agencies are using Instagram to educate the public – and job seekers – about the work they do. The following is a list of some of the more popular accounts. Search for the agencies you are most interested in and follow them to stay current.  
+3. Instagram Many agencies are using Instagram to educate the public – and job seekers – about the work they do. The following is a list of some of the more popular accounts. Search for the agencies you are most interested in and follow them to stay current.  
 
 [usinterior](https://www.instagram.com/usinterior/) Interior Department   
 [smithsonianzoo](https://www.instagram.com/smithsonianzoo/) Smithsonian’s National Zoo  
@@ -220,7 +220,7 @@ Consider using the following platforms to help you expand your network and learn
 [nsfgov](https://www.instagram.com/usfgov/)National Science Foundation  
 [noaa](https://www.instagram.com/noaa/) NOAA  
 
-4.	Snapchat Many government agencies are using Snapchat to reach a wider demographic. The following agencies actively share information. Search for your agencies of interest and follow them.  
+4. Snapchat Many government agencies are using Snapchat to reach a wider demographic. The following agencies actively share information. Search for your agencies of interest and follow them.  
 
 __americas_navy__ America’s Navy  
 __nationalservice__ Corporation for National and Community Service  
