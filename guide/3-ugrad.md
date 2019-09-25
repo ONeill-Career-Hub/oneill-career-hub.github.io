@@ -209,25 +209,25 @@ Consider using the following platforms to help you expand your network and learn
 
 3.	Instagram Many agencies are using Instagram to educate the public – and job seekers – about the work they do. The following is a list of some of the more popular accounts. Search for the agencies you are most interested in and follow them to stay current.  
 
-__usinterior__ Interior Department   
-__smithsonianzoo__ Smithsonian’s National Zoo  
-__usgsa__ General Services Administration  
-__dhsgov__ Homeland Security Department   
-__nasa__ NASA  
-__marines__ US Marine Corps  
-__usfws__ US Fish and Wildlife Service  
-__usdagov__ US Department of Agriculture  
-__nsfgov__ National Science Foundation  
-__noaa__ NOAA  
+[usinterior](https://www.instagram.com/usinterior/) Interior Department   
+[smithsonianzoo](https://www.instagram.com/smithsonianzoo/) Smithsonian’s National Zoo  
+[usgsa](https://www.instagram.com/usgsa/) General Services Administration  
+[dhsgov](https://www.instagram.com/dhsgov/) Homeland Security Department   
+[nasa](https://www.instagram.com/nasa/) NASA  
+[marines](https://www.instagram.com/marines/) US Marine Corps  
+[usfws](https://www.instagram.com/usfws/) US Fish and Wildlife Service  
+[usdagov](https://www.instagram.com/usdagov/) US Department of Agriculture  
+[nsfgov](https://www.instagram.com/usfgov/)National Science Foundation  
+[noaa](https://www.instagram.com/noaa/) NOAA  
 
 4.	Snapchat Many government agencies are using Snapchat to reach a wider demographic. The following agencies actively share information. Search for your agencies of interest and follow them.  
 
-americas_navy America’s Navy  
-nationalservice Corporation for National and Community Service  
-statedept Department of State  
-housegop House Republicans  
-usinterior US Department of the Interior  
-whitehouse The White House  
+__americas_navy__ America’s Navy  
+__nationalservice__ Corporation for National and Community Service  
+__statedept__ Department of State  
+__housegop__ House Republicans  
+__usinterior__ US Department of the Interior  
+__whitehouse__ The White House  
 
 
 [Back to top](#nav)
