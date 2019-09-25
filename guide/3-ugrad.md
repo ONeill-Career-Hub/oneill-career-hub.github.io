@@ -9,7 +9,7 @@ layout: page
 [Connect with Faculty](#connect-with-faculty) &nbsp; &nbsp;
 [How to be Successful at a Conference](#how-to-be-successful-at-a-conference) &nbsp; &nbsp;
 [Networking Social Media Tips](#networking-social-media-tips) &nbsp; &nbsp;
-[Federal Networking & Social Media Tips](#federal-networking-and-social-media-tips) &nbsp; &nbsp;
+[Federal Networking & Social Media Tips](#federal-networking-and-social-media) &nbsp; &nbsp;
 [15 Questions to Ask in an Informational Interview](#15-questions-to-ask-in-an-informational-interview) &nbsp; &nbsp;
 <a name="nav"></a>
 
